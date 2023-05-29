@@ -1581,3 +1581,9 @@ responsive
 }
 
 
+  .button{
+  background-color: #ffffff;
+  box-shadow: inset 0 0 0 1px #ffffff !important;
+  color: #333 !important;
+
+}
